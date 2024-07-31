@@ -1,10 +1,18 @@
 # Pure JavaScript and Asynchronous Firebird client for Node.js
 
+
+## Notice from Hanasis Platform
+This repository needs to support an older version of Firebird (11.0 disk structure) and EUC-KR character set, so it was cloned from https://github.com/hgourvest/node-firebird (v1.1.9).
+
+##
+
+
+
+
 ![Firebird Logo](https://firebirdsql.org/file/about/firebird-logo-90.png)
 
 [![NPM version][npm-version-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-url] [![Mozilla License][license-image]][license-url]
 
-[![NPM](https://nodei.co/npm/node-firebird.png?downloads=true&downloadRank=true)](https://nodei.co/npm/node-firebird/)
 
 [Firebird forum](https://groups.google.com/forum/#!forum/node-firebird) on Google Groups.
 

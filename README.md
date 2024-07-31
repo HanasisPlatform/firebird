@@ -41,13 +41,13 @@ This repository needs to support an older version of Firebird (11.0 disk structu
 ## Installation
 
 ```bash
-npm install node-firebird
+npm install @hanasis/firebird
 ```
 
 ## Usage
 
 ```js
-var Firebird = require('node-firebird');
+var Firebird = require('firebird');
 ```
 
 ### Methods
